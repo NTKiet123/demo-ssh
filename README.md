@@ -1,2 +1,2 @@
-# demo-ssh on computer
+# demo-ssh on my computer
 
